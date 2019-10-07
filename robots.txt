@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eihaevaifo.lightinject.net/sitemap.xml
